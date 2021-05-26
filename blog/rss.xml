@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Secure Firewall Essentials Blog</title>
-        <link>https://securefirewallessentials.github.io/securefirewallessentials/blog</link>
+        <link>https://securefirewallessentials.github.io/blog</link>
         <description>Secure Firewall Essentials Blog</description>
         <lastBuildDate>Sat, 22 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
