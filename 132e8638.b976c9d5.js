@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{72:function(s){s.exports=JSON.parse('{"allTagsPath":"/securefirewallessentials/blog/tags","slug":"cisco-security","name":"cisco security","count":1,"permalink":"/securefirewallessentials/blog/tags/cisco-security"}')}}]);

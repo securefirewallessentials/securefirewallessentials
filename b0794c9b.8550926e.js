@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{84:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"secure-firewall","name":"secure firewall","count":1,"permalink":"/blog/tags/secure-firewall"}')}}]);
